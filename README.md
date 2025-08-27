@@ -67,7 +67,7 @@ Built during internship: Intern login, task assignment, performance charts, feed
 
 ## 📫 Connect with Me  I 
 - 🌐 Portfolio: [https://codolio.com/profile/iLb3krDw/problemSolving/leetcode]  
-- 💼 LinkedIn: [om-singh-mehta-602430219]  
+- 💼 LinkedIn: [[om-singh-mehta-602430219](https://www.linkedin.com/in/om-singh-mehta-602430219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]  
 - ✉️ Email: [ommehta912@gmail.com]  
 
 
