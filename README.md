@@ -28,7 +28,8 @@
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)  
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)  
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff) 
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
@@ -50,19 +51,17 @@
 
 ## 📌 Featured Projects  
 
-🔹 **Job Portal (MERN + Redux + ShadCN UI)**  
+🔹 **Job Portal (MRepositoryx + ShadCN UI)**  
 A complete job hiring platform with authentication, job deadlines, resume upload, email notifications, and recruiter/admin features.  
-[🔗 View Repository](#)  
+[🔗 View Repository](https://github.com/Omsinghmehta/J-Portal)  
 
 🔹 **Learning Management System (MERN + Context API)**  
 An online platform with course upload, enrollment, video player, comments, certificates with digital signatures, and more.  
-[🔗 View Repository](#)  
+[🔗 View Repository](https://github.com/Omsinghmehta/https)
 
 🔹 **Intern Management System (MERN)**  
 Built during internship: Intern login, task assignment, performance charts, feedback system, and attendance tracking.  
-[🔗 View Repository](#) 
-
----
+[🔗 View Repository](https://github.com/Omsinghmehta/Intern-Management-system)-----
 
 ## 📫 Connect with Me  I   
 - 💼 LinkedIn: [[om-singh-mehta-602430219](https://www.linkedin.com/in/om-singh-mehta-602430219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]  
