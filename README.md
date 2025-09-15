@@ -28,8 +28,8 @@
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)  
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff) 
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)<br>
+![WebSocket](https://img.shields.io/badge/-WebSocket-46E3B7?style=for-the-badge&logo=socketdotio&logoColor=000)
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
