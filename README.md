@@ -52,16 +52,16 @@
 ## 📌 Featured Projects  
 
 🔹 **Job Portal (MRepositoryx + ShadCN UI)**  
-A complete job hiring platform with authentication, job deadlines, resume upload, email notifications, and recruiter/admin features.  
+A complete job hiring platform with authentication, job deadlines, J-Portal upload, email notifications, and recruiter/admin features.  
 [🔗 View Repository](https://github.com/Omsinghmehta/J-Portal)  
 
 🔹 **Learning Management System (MERN + Context API)**  
 An online platform with course upload, enrollment, video player, comments, certificates with digital signatures, and more.  
-[🔗 View Repository](https://github.com/Omsinghmehta/https)
+[🔗 View Repository](https://github.com/Omsinghmehta/LMS)
 
 🔹 **Intern Management System (MERN)**  
 Built during internship: Intern login, task assignment, performance charts, feedback system, and attendance tracking.  
-[🔗 View Repository](https://github.com/Omsinghmehta/Intern-Management-system)-----
+[🔗 View Repository](https://github.com/Omsinghmehta/Intern-Management-system)
 
 ## 📫 Connect with Me  I   
 - 💼 LinkedIn: [[om-singh-mehta-602430219](https://www.linkedin.com/in/om-singh-mehta-602430219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]  
